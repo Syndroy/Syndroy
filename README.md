@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syndroy&show_icons=true&locale=en&theme=radical" alt="syndroy" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=syndroy&show_icons=true&locale=en&theme=radical](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd4aGlpenVrbDN2N2UxaGdsMDFybDg0N2NmY2pweWxscmsydnN1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" alt="syndroy" />
 </p>
 
 <p align="center">
