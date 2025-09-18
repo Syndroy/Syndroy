@@ -46,6 +46,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
@@ -55,12 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syndroy&show_icons=true&locale=en&theme=radical" alt="syndroy stats" />
-  <br />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmd4aGlpenVrbDN2N2UxaGdsMDFybDg0N2NmY2pweWxscmsydnN1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="fun gif" />
 </p>
 
 
-/* <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syndroy&theme=radical" alt="syndroy" />
-</p> */
+
